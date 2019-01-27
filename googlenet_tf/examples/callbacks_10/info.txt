@@ -1,0 +1,4 @@
+Finetuning: True
+Optimizer: adam, lr = 0.001
+Keep prob: 0.7
+Batch size: 32
